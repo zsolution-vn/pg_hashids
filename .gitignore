@@ -1,8 +1,8 @@
-/.deps/
-/regression.diffs
-/regression.out
-/results/
-*.so
-*.o
-*.bc
-*.gc*
+# /.deps/
+# /regression.diffs
+# /regression.out
+# /results/
+# *.so
+# *.o
+# *.bc
+# *.gc*
